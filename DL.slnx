@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/Mobile/">
+    <Project Path="Mobile/DL/DL.csproj" />
+  </Folder>
+</Solution>
