@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5YEzIanYZCU=",
+  "dgSpecHash": "wb6p+XyGJm4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\avalonia\\12.0.4\\avalonia.12.0.4.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.27548.20260419\\avalonia.angle.windows.natives.2.1.27548.20260419.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj": {}
+    "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj": {
+    "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
+        "projectPath": "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\DL.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Documents\\GitHub\\Digital-Line\\Mobile\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
